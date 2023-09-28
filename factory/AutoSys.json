@@ -1,0 +1,9 @@
+{
+	"name": "AutoSys",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "836e2c71-e193-45fe-b005-31dfb267b5f8",
+		"tenantId": "8a2c5268-a52f-4019-8372-1841db187485"
+	}
+}
